@@ -1,5 +1,5 @@
 # neonime-cli
-script untuk mendownload anime dari neonime 
+script untuk mendownload anime dari neonime
 ## instalasi
 yang pertama dan paling utama adalah mendownload python
 silahkan download python pada link dibawah
@@ -27,3 +27,11 @@ pilih nomor dari anime yang ingin di download
 ![overview](3.png)
 
 output dari anime akan berada pada folder Anime/
+
+## Development
+
+### Install depedencies/requirements
+
+```bash
+pip install -r requirements.txt
+```
